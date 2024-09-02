@@ -37,12 +37,8 @@ http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="央视频道",CGTN英语
 https://0472.org/hls/cgtn.m3u8
-#EXTINF:-1 tvg-name="CGTN英语2" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="国际",CGTN英语2
-https://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://live.fanmingming.com/tv/CGTN记录.png" group-title="央视频道",CGTN记录
 https://0472.org/hls/cgtnd.m3u8
-#EXTINF:-1 tvg-name="CGTN纪录2" tvg-logo="https://live.fanmingming.com/tv/CGTNDoc.png" group-title="国际",CGTN纪录2
-https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://assets.livednow.com/logo/北京卫视.png" group-title="卫视频道",北京卫视
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
@@ -120,6 +116,10 @@ http://[2409:8087:1a0b:df::4013]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 http://imzbpfrp.zzmd.fun:8888/rtp/239.3.1.55:4120
 #EXTINF:-1 tvg-name="中国教育4台" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/echolin73/logo/main/tvg-logo/CETV4.png" group-title="卫视频道",CETV-4
 http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://kakaxi-1.github.io/TVLOGO/凤凰中文.png" group-title="卫视频道",凤凰中文
+http://125.71.75.138:4022/rtp/239.93.0.162:2192%24%E5%9B%9B%E5%B7%9Dcmc
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://kakaxi-1.github.io/TVLOGO/凤凰资讯.png" group-title="卫视频道",凤凰资讯
+http://125.71.75.138:4022/rtp/239.93.0.118:2191%24%E5%9B%9B%E5%B7%9Dcmc
 
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/echolin73/logo/main/tvg-logo/CCTV5.png" group-title="体育频道",CCTV-5
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
@@ -127,8 +127,12 @@ http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/echolin73/logo/main/tvg-logo/CCTV16.png" group-title="体育频道",CCTV-16
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
-#EXTINF:-1 tvg-name="上海五星体育" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/echolin73/logo/main/tvg-logo/wuxingtiyu.png" group-title="体育频道",五星体育
-http://[2409:8087:5e08:24::15]:6610/000000001000/2000000002000000007/index.m3u8?IAS
+#EXTINF:-1 tvg-name="风云足球" tvg-logo="https://kakaxi-1.github.io/TVLOGO/CCTV-风云足球.png" group-title="体育频道",风云足球
+http://www.lizhinas.top:8688/rtp/239.252.219.96:5140%24%E6%B1%9F%E8%A5%BFcmc3+
+#EXTINF:-1 tvg-name="魅力足球" tvg-logo="https://assets.livednow.com/logo/魅力足球.png" group-title="体育频道",魅力足球
+http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031207/1.m3u8
+#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/echolin73/logo/main/tvg-logo/wuxingtiyu.png" group-title="体育频道",五星体育
+http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IASHttpSessionId=OTT19019320240419154124000281
 #EXTINF:-1 tvg-name="劲爆体育" tvg-logo="https://assets.livednow.com/logo/劲爆体育.png" group-title="体育频道",劲爆体育
 http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000008&IASHttpSessionId=OTT19019320240419154124000281
 #EXTINF:-1 tvg-name="newtv超级体育" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/NEWTV超级体育.png" group-title="体育频道",超级体育
@@ -149,6 +153,7 @@ http://[2409:8087:1a01:df::402a]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 http://[2409:8087:1a01:df::4033]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
 #EXTINF:-1 tvg-name="百事通" tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="体育频道",BesTV
 http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000024/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000024&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+
 #EXTINF:-1 tvg-name="卡酷动画" tvg-logo="https://assets.livednow.com/logo/北京卡酷少儿.png" group-title="数字频道",卡酷少儿
 http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://assets.livednow.com/logo/湖南金鹰卡通.png" group-title="数字频道",金鹰卡通
@@ -171,10 +176,32 @@ http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000011/index.m3u8?
 http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000009/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000009&IASHttpSessionId=OTT19019320240419154124000281
 #EXTINF:-1 tvg-name="求索生活" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/求索生活.png" group-title="数字频道",求索生活
 http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000008&IASHttpSessionId=OTT19019320240419154124000281
+#EXTINF:-1 tvg-id="兵器科技" tvg-name="兵器科技" tvg-logo="https://kakaxi-1.github.io/TVLOGO/CCTV-兵器科技.png" group-title="央视频道",兵器科技
+http://www.lizhinas.top:8688/rtp/239.252.219.98:5140%24%E6%B1%9F%E8%A5%BFcmc3+
+#EXTINF:-1 tvg-id="世界地理" tvg-name="世界地理" tvg-logo="https://kakaxi-1.github.io/TVLOGO/CCTV-世界地理.png" group-title="央视频道",世界地理
+http://www.lizhinas.top:8688/rtp/239.252.219.93:5140%24%E6%B1%9F%E8%A5%BFcmc3+
+#EXTINF:-1 tvg-id="央视台球" tvg-name="央视台球" tvg-logo="https://kakaxi-1.github.io/TVLOGO/CCTV-央视台球.png" group-title="央视频道",央视台球
+http://www.lizhinas.top:8688/rtp/239.252.219.80:5140%24%E6%B1%9F%E8%A5%BFcmc3+
+#EXTINF:-1 tvg-id="高尔夫网球" tvg-name="高尔夫网球" tvg-logo="https://kakaxi-1.github.io/TVLOGO/CCTV-高尔夫网球.png" group-title="央视频道",央视高网
+http://www.lizhinas.top:8688/rtp/239.252.219.95:5140%24%E6%B1%9F%E8%A5%BFcmc3+
+#EXTINF:-1 tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://kakaxi-1.github.io/TVLOGO/CCTV-风云足球.png" group-title="央视频道",风云足球
+http://www.lizhinas.top:8688/rtp/239.252.219.96:5140%24%E6%B1%9F%E8%A5%BFcmc3+
+#EXTINF:-1 tvg-id="第一剧场" tvg-name="第一剧场" tvg-logo="https://kakaxi-1.github.io/TVLOGO/CCTV-第一剧场.png" group-title="央视频道",第一剧场
+http://www.lizhinas.top:8688/rtp/239.252.219.86:5140%24%E6%B1%9F%E8%A5%BFcmc3+
+#EXTINF:-1 tvg-id="女性时尚" tvg-name="女性时尚" tvg-logo="https://kakaxi-1.github.io/TVLOGO/CCTV-女性时尚.png" group-title="央视频道",女性时尚
+http://www.lizhinas.top:8688/rtp/239.252.219.94:5140%24%E6%B1%9F%E8%A5%BFcmc3+
+#EXTINF:-1 tvg-id="风云剧场" tvg-name="风云剧场" tvg-logo="https://kakaxi-1.github.io/TVLOGO/CCTV-风云剧场.png" group-title="央视频道",风云剧场
+http://www.lizhinas.top:8688/rtp/239.252.219.89:5140%24%E6%B1%9F%E8%A5%BFcmc3+
+#EXTINF:-1 tvg-id="风云音乐" tvg-name="风云音乐" tvg-logo="https://kakaxi-1.github.io/TVLOGO/CCTV-风云音乐.png" group-title="央视频道",风云音乐
+http://www.lizhinas.top:8688/rtp/239.252.219.87:5140%24%E6%B1%9F%E8%A5%BFcmc3+
+#EXTINF:-1 tvg-id="怀旧剧场" tvg-name="怀旧剧场" tvg-logo="https://kakaxi-1.github.io/TVLOGO/CCTV-怀旧剧场.png" group-title="央视频道",怀旧剧场
+http://www.lizhinas.top:8688/rtp/239.252.219.90:5140%24%E6%B1%9F%E8%A5%BFcmc3+
+#EXTINF:-1 tvg-id="文化精品" tvg-name="文化精品" tvg-logo="https://kakaxi-1.github.io/TVLOGO/CCTV-央视文化精品.png" group-title="央视频道",文化精品
+http://www.lizhinas.top:8688/rtp/239.252.219.81:5140%24%E6%B1%9F%E8%A5%BFcmc3+
+#EXTINF:-1 tvg-id="电视指南" tvg-name="电视指南" tvg-logo="https://kakaxi-1.github.io/TVLOGO/CCTV-电视指南.png" group-title="央视频道",电视指南
+http://www.lizhinas.top:8688/rtp/239.252.219.97:5140%24%E6%B1%9F%E8%A5%BFcmc3+
 #EXTINF:-1 tvg-name="第一财经" tvg-logo="https://assets.livednow.com/logo/上海第一财经.png" group-title="数字频道",第一财经
 http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000004/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000004&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 tvg-name="北京新闻频道" tvg-logo="http://tv.haoqu99.com/d/file/2014/0512/20140512034324556.jpg" group-title="数字频道",北京新闻频道
-https://live.funhillrm.com/5/sd/live.m3u8
 #EXTINF:-1 tvg-name="纪实科教" tvg-logo="https://assets.livednow.com/logo/北京纪实科教.png" group-title="数字频道",纪实科教
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
 #EXTINF:-1 tvg-name="上海纪实人文" tvg-logo="https://assets.livednow.com/logo/上海纪实人文.png" group-title="数字频道",纪实人文
@@ -279,3 +306,13 @@ http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000046/index.m3u8?
 http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000047/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000047&IASHttpSessionId=OTT19019320240419154124000281
 #EXTINF:-1 tvg-name="iHOT爱动漫" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/IHOT爱动漫.png" group-title="数字频道",iHOT爱动漫
 http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000059/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000059&IASHttpSessionId=OTT19019320240419154124000281
+#EXTINF:-1 tvg-id="淘电影" tvg-name="淘电影" tvg-logo="https://kakaxi-1.github.io/TVLOGO/淘电影.png" group-title="数字经典",淘电影
+http://tnvcn.com:8012/rtp/239.3.1.250:8001%24%E5%8C%97%E4%BA%ACuni1+
+#EXTINF:-1 tvg-id="淘剧场" tvg-name="淘剧场" tvg-logo="https://kakaxi-1.github.io/TVLOGO/淘剧场.png" group-title="数字经典",淘剧场
+http://tnvcn.com:8012/rtp/239.3.1.95:8001%24%E5%8C%97%E4%BA%ACuni1+
+#EXTINF:-1 tvg-id="淘娱乐" tvg-name="淘娱乐" tvg-logo="https://kakaxi-1.github.io/TVLOGO/淘娱乐.png" group-title="数字经典",淘娱乐
+http://tnvcn.com:8012/rtp/239.3.1.100:8001%24%E5%8C%97%E4%BA%ACuni1+
+#EXTINF:-1 tvg-id="淘BABY" tvg-name="淘BABY" tvg-logo="https://kakaxi-1.github.io/TVLOGO/淘BABY.png" group-title="数字经典",淘BABY
+http://tnvcn.com:8012/rtp/239.3.1.238:8001%24%E5%8C%97%E4%BA%ACuni1+
+#EXTINF:-1 tvg-id="淘精彩" tvg-name="淘精彩" tvg-logo="https://kakaxi-1.github.io/TVLOGO/淘精彩.png" group-title="数字经典",淘精彩
+http://tnvcn.com:8012/rtp/239.3.1.178:8001
