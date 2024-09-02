@@ -11,5 +11,5 @@
 
 `直播源地址`  
 `https://github.com/YueChan/Live/blob/main/APTV.m3u`  
-`https://github.com/YanG-1989/m3u/blob/main/Gather.m3u`  
 `https://github.com/fanmingming/live/blob/main/tv/m3u/ipv6.m3u`  
+`https://github.com/kakaxi-1/IPTV/blob/main/ipv6.m3u`
