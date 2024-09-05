@@ -1,5 +1,4 @@
 `订阅源地址`  
-[`https://raw.githubusercontent.com/cqbf/Live/main/IPTV.m3u`](https://raw.githubusercontent.com/cqbf/Live/main/IPTV.m3u)  
 [`https://mirror.ghproxy.com/https://raw.githubusercontent.com/cqbf/Live/main/IPTV.m3u`](https://mirror.ghproxy.com/https://raw.githubusercontent.com/cqbf/Live/main/IPTV.m3u)
 
 `常用图标库`  
@@ -9,10 +8,12 @@
 [`https://github.com/kakaxi-1/TVLOGO`](https://github.com/kakaxi-1/TVLOGO) `IHOT系列第二版备用`  
 [`https://github.com/wanglindl/TVlogo`](https://github.com/wanglindl/TVlogo) `已不再更新。用于补充睛彩频道`  
 [`https://epg.iill.top`](https://epg.iill.top) `用于补充咪咕、百事通、精彩故事`  
-[`https://github.com/fanmingming/live/tree/main/tv`](https://github.com/fanmingming/live/tree/main/tv)   `备用 https://live.fanmingming.com/tv/CCTV2.png`  
+[`https://github.com/fanmingming/live/tree/main/tv`](https://github.com/fanmingming/live/tree/main/tv)   `代理地址 https://live.fanmingming.com/tv/CCTV2.png`  
 
 `直播源地址`  
 [`https://github.com/YueChan/Live/blob/main/APTV.m3u`](https://github.com/YueChan/Live/blob/main/APTV.m3u)  
 [`https://github.com/YanG-1989/m3u/blob/main/Gather.m3u`](https://github.com/YanG-1989/m3u/blob/main/Gather.m3u) [`https://tv.iill.top//m3u/Gather`](https://tv.iill.top//m3u/Gather)  
 [`https://github.com/kakaxi-1/IPTV/blob/main/ipv6.m3u`](https://github.com/kakaxi-1/IPTV/blob/main/ipv6.m3u)  [`https://kakaxi-1.github.io/IPTV/ipv6.m3u`](https://kakaxi-1.github.io/IPTV/ipv6.m3u)  
 [`https://github.com/fanmingming/live/blob/main/tv/m3u/ipv6.m3u`](https://github.com/fanmingming/live/blob/main/tv/m3u/ipv6.m3u)  [`https://live.fanmingming.com/tv/m3u/ipv6.m3u` ](https://live.fanmingming.com/tv/m3u/ipv6.m3u)   
+[`https://github.com/wwb521/live/blob/main/tv.m3u`](https://github.com/wwb521/live/blob/main/tv.m3u) `纯IPV4`  
+
