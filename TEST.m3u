@@ -1,4 +1,38 @@
 #EXTM3U 
+#EXTINF:-1 group-title="体育频道",风云足球
+http://112.84.131.28:80/hlslive-tx-cdn.ysp.cctv.cn/512/2012514203.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="体育频道",风云足球
+http://123.189.36.103:9901/tsfile/live/1122_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="体育频道",风云足球
+http://123.189.36.155:9901/tsfile/live/1122_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="体育频道",风云足球
+http://58.19.38.162:9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="体育频道",风云足球
+http://180.213.174.231:9901/tsfile/live/1046_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="China",CCTV-风云足球
+http://120.76.248.139/live/bfgd/4200000225.m3u8
+#EXTINF:-1 group-title="China",CCTV4K
+http://112.84.131.28:80/hlslive-tx-cdn.ysp.cctv.cn/512/2024081302.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="China",CCTV4K
+http://159.75.85.63:5679/cctv4k.php
+#EXTINF:-1 group-title="China",CCTV4K
+http://27.222.3.214/liveali-tp4K.cctv.cn/live/4K10M.stream/playlist.m3u8
+#EXTINF:-1 group-title="China",CCTV4K
+http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/1.m3u8
+#EXTINF:-1 group-title="China",CCTV4K
+http://113.96.179.241/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
+#EXTINF:-1 group-title="China",CCTV4K
+http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
+#EXTINF:-1 group-title="China",CCTV8K
+http://112.84.131.28:80/hlslive-tx-cdn.ysp.cctv.cn/512/2020603421.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="China",CCTV8K
+http://27.222.3.214/liveali-tp4k.cctv.cn/live/8K120M/playlist.m3u8
+#EXTINF:-1 group-title="China",CCTV8K
+http://159.75.85.63:8654/xx8k50fps.php
+#EXTINF:-1 group-title="China",CCTV54
+http://112.13.84.36/5gtvtbv52.live.bestvcdn.com.cn/live/program/live/cctv5hd8m/8000000/mnf.m3u8
+
+
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV1-light.png" group-title="央视频道",CCTV-1
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV2-light.png" group-title="央视频道",CCTV-2
