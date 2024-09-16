@@ -1,6 +1,6 @@
 `订阅源地址`  
-[`https://mirror.ghproxy.com/https://raw.githubusercontent.com/cqbf/Live/main/IPTV.m3u`](https://mirror.ghproxy.com/https://raw.githubusercontent.com/cqbf/Live/main/IPTV.m3u)  
-[`https://mirror.ghproxy.com/https://raw.githubusercontent.com/cqbf/Live/main/TEST.m3u`](https://mirror.ghproxy.com/https://raw.githubusercontent.com/cqbf/Live/main/TEST.m3u)  
+[`https://mirror.ghproxy.com/https://raw.githubusercontent.com/cqbf/tv/main/live.m3u`](https://mirror.ghproxy.com/https://raw.githubusercontent.com/cqbf/tv/main/live.m3u)  
+[`https://mirror.ghproxy.com/https://raw.githubusercontent.com/cqbf/tv/main/test.m3u`](https://mirror.ghproxy.com/https://raw.githubusercontent.com/cqbf/tv/main/test.m3u)  
 
 `常用图标库`  
 [`https://github.com/echolin73/logo/tree/main/tvg-logo`](https://github.com/echolin73/logo/tree/main/tvg-logo) `深色央视标，当前的央视系列，补充山西卫视`  
@@ -16,6 +16,6 @@
 [`https://github.com/YueChan/Live/blob/main/APTV.m3u`](https://github.com/YueChan/Live/blob/main/APTV.m3u)  
 [`https://github.com/kakaxi-1/IPTV/blob/main/ipv6.m3u`](https://github.com/kakaxi-1/IPTV/blob/main/ipv6.m3u)  `来自`[`https://live.kakaxi-1.ink/`](https://live.kakaxi-1.ink)  
 [`https://github.com/YanG-1989/m3u/blob/main/Gather.m3u`](https://github.com/YanG-1989/m3u/blob/main/Gather.m3u)  `来自`[`https://tv.iill.top//m3u/Gather`](https://tv.iill.top//m3u/Gather)  
-[`https://github.com/fanmingming/live/blob/main/tv/m3u/ipv6.m3u`](https://github.com/fanmingming/live/blob/main/tv/m3u/ipv6.m3u)  `代理地址 https://live.fanmingming.com/tv/m3u/ipv6.m3u`  
-[`https://github.com/fanmingming/live/blob/main/tv/m3u/itv.m3u`](https://github.com/fanmingming/live/blob/main/tv/m3u/itv.m3u)  `代理地址 https://live.fanmingming.com/tv/m3u/itv.m3u` `纯IPV4`
-[`https://github.com/joevess/IPTV/blob/main/home.m3u8`](https://github.com/joevess/IPTV/blob/main/home.m3u8)  `纯IPV4`  
+[`https://github.com/fanmingming/live/blob/main/tv/m3u/ipv6.m3u`](https://github.com/fanmingming/live/blob/main/tv/m3u/ipv6.m3u)  `ipv6代理地址 https://live.fanmingming.com/tv/m3u/ipv6.m3u`  
+[`https://github.com/fanmingming/live/blob/main/tv/m3u/itv.m3u`](https://github.com/fanmingming/live/blob/main/tv/m3u/itv.m3u)  `ipv4代理地址 https://live.fanmingming.com/tv/m3u/itv.m3u`  
+[`https://github.com/joevess/IPTV/blob/main/home.m3u8`](https://github.com/joevess/IPTV/blob/main/home.m3u8)
