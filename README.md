@@ -1,6 +1,6 @@
 `订阅源地址`  
-[`https://mirror.ghproxy.com/https://raw.githubusercontent.com/cqbf/tv/main/live.m3u`](https://mirror.ghproxy.com/https://raw.githubusercontent.com/cqbf/tv/main/live.m3u)  
-[`https://mirror.ghproxy.com/https://raw.githubusercontent.com/cqbf/tv/main/test.m3u`](https://mirror.ghproxy.com/https://raw.githubusercontent.com/cqbf/tv/main/test.m3u)  
+[`https://ghp.ci/https://raw.githubusercontent.com/cqbf/tv/main/live.m3u`](https://ghp.ci/https://raw.githubusercontent.com/cqbf/tv/main/live.m3u)  
+[`https://ghp.ci/https://raw.githubusercontent.com/cqbf/tv/main/test.m3u`](https://ghp.ci/https://raw.githubusercontent.com/cqbf/tv/main/test.m3u)  
 
 `常用图标库`  
 [`https://github.com/echolin73/logo/tree/main/tvg-logo`](https://github.com/echolin73/logo/tree/main/tvg-logo) `深色央视标，当前的央视系列，补充山西卫视`  
