@@ -3,13 +3,13 @@
 [`https://ghp.ci/https://raw.githubusercontent.com/cqbf/tv/main/test.m3u`](https://ghp.ci/https://raw.githubusercontent.com/cqbf/tv/main/test.m3u)  
 
 `常用图标库`  
-[`https://github.com/fanmingming/live/tree/main/tv`](https://github.com/fanmingming/live/tree/main/tv)   `代理地址 https://live.fanmingming.com/tv/CCTV2.png`  
-[`https://github.com/drangjchen/IPTV/tree/main/Logo`](https://github.com/drangjchen/IPTV/tree/main/Logo) `卫视首选，央视二选，NewTV-轻、求索-轻、IHOT`  
-[`https://assets.livednow.com/guide.html`](https://assets.livednow.com/guide.html) `源自wanglindl，卫视二选，央视全透明，NewTV、求索，IHOT`  
-[`https://github.com/echolin73/logo/tree/main/tvg-logo`](https://github.com/echolin73/logo/tree/main/tvg-logo) `补充山西卫视，独家央视深色标`  
-[`https://github.com/wanglindl/TVlogo`](https://github.com/wanglindl/TVlogo) `已不再更新。补充睛彩频道`  
-[`https://epg.iill.top`](https://epg.iill.top) `补充咪咕、百事通、精彩故事`  
-[`https://github.com/kakaxi-1/IPTV/tree/main/LOGO`](https://github.com/kakaxi-1/IPTV/tree/main/LOGO) `备用`  
+[`fanmingming/live/tree/main/tv`](https://github.com/fanmingming/live/tree/main/tv)   `代理地址 https://live.fanmingming.com/tv/CCTV1.png`  
+[`https://assets.livednow.com/guide.html`](https://assets.livednow.com/guide.html) `卫视首选、求索首选；央视全透明、NewTV浅色、IHOT备用`  
+[`drangjchen/IPTV/tree/main/Logo`](https://github.com/drangjchen/IPTV/tree/main/Logo) `NewTV浅色、IHOT首选、补充重庆卫视；央视、卫视、求索深浅备用`  
+[`echolin73/logo/tree/main/tvg-logo`](https://github.com/echolin73/logo/tree/main/tvg-logo) `补充山西卫视、五星体育、CETV、BesTV、咪咕，央视深色备用`  
+[`kakaxi-1/IPTV/tree/main/LOGO`](https://github.com/kakaxi-1/IPTV/tree/main/LOGO) `淘系列频道独家，睛彩频道首选`  
+[`https://epg.iill.top`](https://epg.iill.top) `补充精彩故事，咪咕备用、BesTV备用`  
+[`wanglindl/TVlogo`](https://github.com/wanglindl/TVlogo) `已不再更新。睛彩频道备用`  
 
 `直播源地址`  
 [`wwb521/tv.m3u`](https://github.com/wwb521/live/blob/main/tv.m3u)   
