@@ -166,7 +166,7 @@ http://[2409:8087:1a01:df::4046]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 http://[2409:8087:1a01:df::403b]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
 #EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.kakaxi-1.ink/LOGO/睛彩篮球.png" group-title="体育频道",睛彩篮球
 http://[2409:8087:1a01:df::402a]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8
-#EXTINF:-1 tvg-name="咪咕直播" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/echolin73/logo/main/tvg-logo/migu.png" group-title="体育频道",咪咕直播
+#EXTINF:-1 tvg-name="咪咕直播" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/echolin73/logo/main/tvg-logo/migu_shipin.png" group-title="体育频道",咪咕直播
 http://[2409:8087:1a01:df::4033]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
 #EXTINF:-1 tvg-name="百视通" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/echolin73/logo/main/tvg-logo/bestv.png" group-title="体育频道",BesTV
 http://[2409:8087:5e08:24::17]:6610/000000001000/2000000002000000024/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000024&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
@@ -232,9 +232,9 @@ http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031111/1.m3u8
 http://[2409:8087:5e01:24::16]:6610/000000001000/2000000004000000063/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000063&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 #EXTINF:-1 tvg-name="黑莓电影" tvg-logo="https://assets.livednow.com/logo/NewTV-黑莓电影.png" group-title="数字频道",黑莓电影
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
-#EXTINF:-1 tvg-name="超级电影" tvg-logo="https://assets.livednow.com/logo/NewTV-超级电影-light.png" group-title="数字频道",超级电影
+#EXTINF:-1 tvg-name="超级电影" tvg-logo="https://assets.livednow.com/logo/NewTV-超级电影.png" group-title="数字频道",超级电影
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
-#EXTINF:-1 tvg-name="超级电视剧" tvg-logo="https://assets.livednow.com/logo/NewTV-超级电视剧-light.png" group-title="数字频道",超级电视剧
+#EXTINF:-1 tvg-name="超级电视剧" tvg-logo="https://assets.livednow.com/logo/NewTV-超级电视剧.png" group-title="数字频道",超级电视剧
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
 #EXTINF:-1 tvg-name="超级体育" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/NEWTV超级体育-light.png" group-title="数字频道",超级体育
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
