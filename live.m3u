@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml.gz,https://assets.livednow.com/epg.xml"
+#EXTM3U x-tvg-url="http://tv.kakaxi-1.ink:8877/epg/t.xml"x-tvg-url="http://live.kakaxi-1.ink/epg.xml"
 
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://assets.livednow.com/logo/CCTV1.png" group-title="央视频道",CCTV-1 综合
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
@@ -154,11 +154,11 @@ http://117.161.12.124/live/program/live/jbtyhd/4000000/mnf.m3u8
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
 #EXTINF:-1 tvg-name="精品体育" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/NEWTV精品体育-light.png" group-title="体育频道",精品体育
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
-#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://live.kakaxi-1.ink/LOGO/睛彩羽毛球.png" group-title="体育频道",睛彩青少
+#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://live.kakaxi-1.ink/LOGO/睛彩青少.png" group-title="体育频道",睛彩青少
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226508/index.m3u8
 #EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://live.kakaxi-1.ink/LOGO/睛彩竞技.png" group-title="体育频道",睛彩竞技
 http://[2409:8087:1a01:df::404d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
-#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://live.kakaxi-1.ink/LOGO/睛彩广场舞.png" group-title="体育频道",睛彩竞技
+#EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://live.kakaxi-1.ink/LOGO/睛彩广场舞.png" group-title="体育频道",睛彩广场舞
 http://[2409:8087:1a01:df::4046]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
 #EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.kakaxi-1.ink/LOGO/睛彩篮球.png" group-title="体育频道",睛彩篮球
 http://[2409:8087:1a01:df::403b]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
