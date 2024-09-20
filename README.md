@@ -8,7 +8,8 @@
 [`drangjchen/IPTV/tree/main/Logo`](https://github.com/drangjchen/IPTV/tree/main/Logo) `NewTV浅色、IHOT首选、补充重庆卫视；央视、卫视、求索深浅备用`  
 [`echolin73/logo/tree/main/tvg-logo`](https://github.com/echolin73/logo/tree/main/tvg-logo) `补充山西卫视、五星体育、CETV、BesTV，央视深色备用`  
 [`kakaxi-1/IPTV/tree/main/LOGO`](https://github.com/kakaxi-1/IPTV/tree/main/LOGO) `淘系列频道独家，睛彩频道首选，补充精彩故事`  
-[`https://epg.iill.top`](https://epg.iill.top) `咪咕备用、BesTV备用`  
+[`fenxp/iptv/tree/main/tv`](https://github.com/fenxp/iptv/tree/main/tv) `咪咕体育，五星体育，一财、山西备用`  
+[`YanG-1989/epg.iill.top`](https://epg.iill.top) `咪咕备用、BesTV备用`  
 [`wanglindl/TVlogo`](https://github.com/wanglindl/TVlogo) `睛彩频道备用`  
 
 `直播源地址`  
