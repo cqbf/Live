@@ -20,4 +20,5 @@
 [`joevess/home.m3u8`](https://github.com/joevess/IPTV/blob/main/home.m3u8)  `ipv4源`  
 [`kakaxi-1/ipv6.m3u`](https://github.com/kakaxi-1/IPTV/blob/main/ipv6.m3u)  `来自:`[`https://live.kakaxi-1.ink`](https://live.kakaxi-1.ink)  
 [`YanG-1989/Gather.m3u`](https://github.com/YanG-1989/m3u/blob/main/Gather.m3u)  `来自:`[`https://tv.iill.top//m3u/Gather`](https://tv.iill.top//m3u/Gather)  
-[`mengxianshengaaa/iptv_list.m3u`](https://github.com/mengxianshengaaa/IPTV/blob/main/iptv_list.m3u)  `超多频道、超多线路`
+[`mengxianshengaaa/iptv_list.m3u`](https://github.com/mengxianshengaaa/IPTV/blob/main/iptv_list.m3u)  `超多频道、超多线路`  
+[`kimwang1978/merged_output.m3u`](https://github.com/kimwang1978/collect-tv-txt/blob/main/merged_output.m3u)  `超多频道、超多线路`
