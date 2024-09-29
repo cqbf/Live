@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="http://tv.kakaxi-1.ink:8877/epg/t.xml"x-tvg-url="http://live.kakaxi-1.ink/epg.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://assets.livednow.com/logo/CCTV1.png" group-title="央视频道",CCTV-1 综合
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道",CCTV-1 综合
 http://[2409:8087:74d9:21::6]/270000001322/69900158041111100000002133/index.m3u8
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视频道",CCTV-2 财经
@@ -154,11 +154,11 @@ http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2022606701/timeshift.m3u8?
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225655/index.m3u8
 #EXTINF:-1 tvg-name="中国教育1台" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/echolin73/logo/main/tvg-logo/CETV1.png" group-title="卫视频道",CETV-1
 http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
-#EXTINF:-1 tvg-name="中国教育2台" tvg-logo="https://live.fanmingming.com/tv/中国教育2台.png" group-title="卫视频道",CETV-2
+#EXTINF:-1 tvg-name="中国教育2台" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/echolin73/logo/main/tvg-logo/CETV2.png" group-title="卫视频道",CETV-2
 http://[2409:8087:1a0b:df::4013]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
-#EXTINF:-1 tvg-name="中国教育3台" tvg-logo="https://assets.livednow.com/logo/中国教育电视台-3.png" group-title="卫视频道",CETV-3
+#EXTINF:-1 tvg-name="中国教育3台" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/echolin73/logo/main/tvg-logo/CETV3.png" group-title="卫视频道",CETV-3
 http://imzbpfrp.zzmd.fun:8888/rtp/239.3.1.55:4120
-#EXTINF:-1 tvg-name="中国教育4台" tvg-logo="https://assets.livednow.com/logo/中国教育电视台-4.png" group-title="卫视频道",CETV-4
+#EXTINF:-1 tvg-name="中国教育4台" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/echolin73/logo/main/tvg-logo/CETV4.png" group-title="卫视频道",CETV-4
 http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="卫视频道",凤凰中文
 http://58.144.154.93/qctv.fengshows.cn/live/0701pcc72.m3u8
@@ -236,9 +236,8 @@ http://113.195.4.134:9901/tsfile/live/1049_1.m3u8?key=txiptv
 http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000008&IASHttpSessionId=OTT19019320240419154124000281
 http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000002000029972/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000002000029972
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/五星体育.png" group-title="体育频道",五星体育
-http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000010000017540/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000010000017540
-#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/fenxp/iptv/main/tv/五星体育.png" group-title="体育频道",五星体育
 http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IASHttpSessionId=OTT19019320240419154124000281
+http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000010000017540/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000010000017540
 #EXTINF:-1 tvg-name="北京体育" tvg-logo="https://live.fanmingming.com/tv/北京体育休闲.png" group-title="体育频道",北京体育
 http://39.134.135.82/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226438/1.m3u8?zoneoffset=480&servicetype=1&icpid=&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7EeVAybrHg955d_IRT9e_uHQ%7EpK8OKM5JoJWWbLRyLfPcUMkwWZ90MzSI9S9PDltJsYzd0ZGcS3Tkh7syciNKJa-w60mDOdwtDyoNwCx9aRgzHNH9AUREV_qvNJtXHRPzYw0%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3D%3D%3A20221022013542%2C915973%2C119.123.71.209%2C20221022013542%2C10000100000000050000000003870779%2C915973%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C10000100000000060000000007251163_0%2CEND&GuardEncType=2
 http://[2001:250:5800:1005::155]:80/liverespath/9535e4def9ec36aaf65f8f87a8af664b81f4bf23/index.m3u8
@@ -272,7 +271,7 @@ http://[2409:8087:1a01:df::403b]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 http://[2409:8087:1a01:df::402a]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8
 #EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://live.kakaxi-1.ink/LOGO/睛彩广场舞.png" group-title="体育频道",睛彩广场舞
 http://[2409:8087:1a01:df::4046]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
-#EXTINF:-1 tvg-name="咪咕直播" tvg-logo="https://raw.githubusercontent.com/fenxp/iptv/main/tv/咪咕体育.png" group-title="体育频道",咪咕视频
+#EXTINF:-1 tvg-name="咪咕视频" tvg-logo="https://live.kakaxi-1.ink/LOGO/咪咕视频.png" group-title="体育频道",咪咕视频
 http://[2409:8087:1a01:df::4033]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
 #EXTINF:-1 tvg-name="超级体育" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/NEWTV超级体育-light.png" group-title="体育频道",超级体育
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
@@ -330,9 +329,9 @@ http://[2001:250:5800:1005::155]:80/liverespath/449d51febadb152094085d373b9af94a
 #EXTINF:-1 tvg-name="黑莓电影" tvg-logo="https://assets.livednow.com/logo/NewTV-黑莓电影.png" group-title="数字频道",黑莓电影
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 http://[2409:8087:1a0b:df::4014]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
-#EXTINF:-1 tvg-name="超级电影" tvg-logo="https://assets.livednow.com/logo/NewTV-超级电影.png" group-title="数字频道",超级电影
+#EXTINF:-1 tvg-name="超级电影" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/NEWTV超级电影-light.png" group-title="数字频道",超级电影
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
-#EXTINF:-1 tvg-name="超级电视剧" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/fenxp/iptv/main/tv/NEWTV超级电视剧.png" group-title="数字频道",超级电视剧
+#EXTINF:-1 tvg-name="超级电视剧" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/NEWTV超级电视剧-light.png" group-title="数字频道",超级电视剧
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
 #EXTINF:-1 tvg-name="精品大剧" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/NEWTV精品大剧-light.png" group-title="数字频道",精品大剧
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8
