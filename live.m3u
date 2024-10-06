@@ -1,10 +1,11 @@
-#EXTM3U x-tvg-url="http://tv.kakaxi-1.ink:8877/epg/t.xml"x-tvg-url="http://live.kakaxi-1.ink/epg.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+#EXTM3U x-tvg-url="http://live.kakaxi-1.ink/epg.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道",CCTV-1 综合
 http://[2409:8087:74d9:21::6]/270000001322/69900158041111100000002133/index.m3u8
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视频道",CCTV-2 财经
 http://[2409:8087:74d9:21::6]/270000001322/69900158041111100000002135/index.m3u8
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/yinhe/88888888/8/3221225588/index.m3u8
 http://[2409:8087:74F1:0021::0008]:80/270000001322/69900158041111100000002135/index.m3u8
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="央视频道",CCTV-3 综艺
 http://[2409:8087:74d9:21::6]/270000001128/9900000003/index.m3u8
@@ -186,7 +187,7 @@ https://ct-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 http://tv.pull.hebtv.com/jishi/shaoerkejiao.m3u8?t=2510710360&k=4ff4446adf3cce3de40dd013255b38b2
 http://tv.pull.hebtv.com/jishi/shaoerkejiao.flv?t=2510710360&k=87b12e4fe703265f4f59538a2399246c
 http://123.180.177.20:16000/udp/239.253.92.174:6004
-#EXTINF:-1 tvg-name="山东少儿" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Shandong5.png" group-title="少儿频道",山东少儿
+#EXTINF:-1 tvg-name="山东少儿" tvg-logo="https://live.fanmingming.com/tv/山东少儿.png" group-title="少儿频道",山东少儿
 https://stream1.freetv.fun/015dbac308d9da33dad5b4b2991f2fa094de73f086e45f9f3e3356e4e7aa6dc2.m3u8
 http://www.xuweihome.vip:2222/udp/239.253.248.25:8000
 http://123.129.70.178:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -241,7 +242,7 @@ http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000010000017540/index.m
 #EXTINF:-1 tvg-name="北京体育" tvg-logo="https://live.fanmingming.com/tv/北京体育休闲.png" group-title="体育频道",北京体育
 http://39.134.135.82/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226438/1.m3u8?zoneoffset=480&servicetype=1&icpid=&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7EeVAybrHg955d_IRT9e_uHQ%7EpK8OKM5JoJWWbLRyLfPcUMkwWZ90MzSI9S9PDltJsYzd0ZGcS3Tkh7syciNKJa-w60mDOdwtDyoNwCx9aRgzHNH9AUREV_qvNJtXHRPzYw0%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3D%3D%3A20221022013542%2C915973%2C119.123.71.209%2C20221022013542%2C10000100000000050000000003870779%2C915973%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C10000100000000060000000007251163_0%2CEND&GuardEncType=2
 http://[2001:250:5800:1005::155]:80/liverespath/9535e4def9ec36aaf65f8f87a8af664b81f4bf23/index.m3u8
-#EXTINF:-1 tvg-name="山东体育" tvg-logo="https://live.fanmingming.com/tv/山东体育.png" group-title="体育频道",山东体育
+#EXTINF:-1 tvg-name="山东体育" tvg-logo="https://raw.githubusercontent.com/sparkssssssssss/epg/main/logo/山东体育.png" group-title="体育频道",山东体育
 http://221.0.78.198:1681/hls/10224/index.m3u8
 http://124.128.73.58:9901/tsfile/live/1001_1.m3u8
 http://www.xuweihome.vip:2222/udp/239.253.248.22:8000
@@ -265,11 +266,14 @@ http://wouu.net:9977/udp/239.93.0.197:9040
 #EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://live.kakaxi-1.ink/LOGO/睛彩青少.png" group-title="体育频道",睛彩青少
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226508/index.m3u8
 #EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://live.kakaxi-1.ink/LOGO/睛彩竞技.png" group-title="体育频道",睛彩竞技
+http://[2409:8087:1a01:df::7005]ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
 http://[2409:8087:1a01:df::404d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
 #EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://live.kakaxi-1.ink/LOGO/睛彩篮球.png" group-title="体育频道",睛彩篮球
+http://[2409:8087:1a01:df::7005]ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
 http://[2409:8087:1a01:df::403b]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
 http://[2409:8087:1a01:df::402a]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8
 #EXTINF:-1 tvg-name="睛彩广场舞" tvg-logo="https://live.kakaxi-1.ink/LOGO/睛彩广场舞.png" group-title="体育频道",睛彩广场舞
+http://[2409:8087:1a01:df::7005]ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
 http://[2409:8087:1a01:df::4046]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
 #EXTINF:-1 tvg-name="咪咕视频" tvg-logo="https://live.kakaxi-1.ink/LOGO/咪咕视频.png" group-title="体育频道",咪咕视频
 http://[2409:8087:1a01:df::4033]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
@@ -288,7 +292,7 @@ http://[2409:8087:5e01:24::16]:6610/000000001000/2000000004000000060/index.m3u8?
 http://[2409:8087:5e01:24::16]:6610/000000001000/2000000004000000055/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000055&IASHttpSessionId=OTT19019320240419154124000281
 
 
-#EXTINF:-1 tvg-name="河北农民" tvg-logo="https://epg.iill.top/logo/河北卫视.png" group-title="数字频道",河北农民
+#EXTINF:-1 tvg-name="河北农民" tvg-logo="https://raw.githubusercontent.com/sparkssssssssss/epg/main/logo/河北农民频道.png" group-title="数字频道",河北农民
 http://tv.pull.hebtv.com/jishi/nongminpindao.flv?t=2510710360&k=61bdf654828c9db6c20fbb4717fc6dee
 https://tv.pull.hebtv.com/jishi/nongminpindao.m3u8?t=1963555153&k=322fe32502d1e3695b0bdef5e698635e
 http://www.sjwyp.com:4022/udp/239.254.200.23:6000
