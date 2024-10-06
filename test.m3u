@@ -4,6 +4,19 @@
 http://[2409:8087:74d9:21::6]/270000001322/69900158041111100000002133/index.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道",CCTV-1 综合
 http://[2409:8087:74d9:21::6]/270000001322/69900158041111100000002133/index.m3u8
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/sparkssssssssss/epg/refs/heads/main/logo/CCTV1.png" group-title="央视频道",CCTV-1 综合
+http://[2409:8087:74d9:21::6]/270000001322/69900158041111100000002133/index.m3u8
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/sparkssssssssss/epg/refs/heads/main/logo/CCTV1.cn.png" group-title="央视频道",CCTV-1 综合
+http://[2409:8087:74d9:21::6]/270000001322/69900158041111100000002133/index.m3u8
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/sparkssssssssss/epg/refs/heads/main/logo/CCTV1-Z.png" group-title="央视频道",CCTV-1 综合
+http://[2409:8087:74d9:21::6]/270000001322/69900158041111100000002133/index.m3u8
+
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://assets.livednow.com/logo/CCTV5.png" group-title="央视频道",CCTV-5 体育
+http://[2409:8087:74d9:21::6]/270000001128/9900000005/index.m3u8
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/sparkssssssssss/epg/refs/heads/main/logo/CCTV5.png" group-title="央视频道",CCTV-5 体育
+http://[2409:8087:74d9:21::6]/270000001128/9900000005/index.m3u8
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视频道",CCTV-5 体育
+http://[2409:8087:74d9:21::6]/270000001128/9900000005/index.m3u8
 
 #EXTINF:-1 tvg-name="中国教育1台" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/echolin73/logo/main/tvg-logo/CETV1.png" group-title="卫视频道",CETV-1
 http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
@@ -16,6 +29,16 @@ http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000010000017540/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000010000017540
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://ghp.ci/https://raw.githubusercontent.com/fenxp/iptv/main/tv/五星体育.png" group-title="体育频道",五星体育
 http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IASHttpSessionId=OTT19019320240419154124000281
+
+#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://live.kakaxi-1.ink/LOGO/睛彩青少.png" group-title="体育频道",睛彩青少
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226508/index.m3u8
+#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://live.fanmingming.com/tv/睛彩青少.png" group-title="体育频道",睛彩青少
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226508/index.m3u8
+
+#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://live.kakaxi-1.ink/LOGO/睛彩竞技.png" group-title="体育频道",睛彩竞技
+http://[2409:8087:1a01:df::404d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
+#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://live.fanmingming.com/tv/睛彩竞技.png" group-title="体育频道",睛彩竞技
+http://[2409:8087:1a01:df::404d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
 
 #EXTINF:-1 tvg-name="咪咕直播" tvg-logo="https://live.kakaxi-1.ink/LOGO/咪咕视频.png" group-title="体育频道",咪咕视频
 http://[2409:8087:1a01:df::4033]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
