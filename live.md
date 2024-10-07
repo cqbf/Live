@@ -1,8 +1,3 @@
-#EXTM3U 
-#EXTM3U x-tvg-url="http://live.kakaxi-1.ink/epg.xml"
-#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
-#EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml.gz,https://assets.livednow.com/epg.xml"
-
 **直播源订阅**  
 `live`[`https://ghp.ci/https://raw.githubusercontent.com/cqbf/tv/main/live.m3u`](https://ghp.ci/https://raw.githubusercontent.com/cqbf/tv/main/live.m3u)  
 `test`[`https://ghp.ci/https://raw.githubusercontent.com/cqbf/tv/main/test.m3u`](https://ghp.ci/https://raw.githubusercontent.com/cqbf/tv/main/test.m3u)  
@@ -34,4 +29,10 @@
 `2.`[`lalifeier/IPTV.m3u`](https://github.com/lalifeier/IPTV/blob/main/m3u/IPTV.m3u)  
 `3.`[`mengxianshengaaa/iptv_list.m3u`](https://github.com/mengxianshengaaa/IPTV/blob/main/iptv_list.m3u)  
 `4.`[`kimwang1978/merged_output_simple.m3u`](https://github.com/kimwang1978/collect-tv-txt/blob/main/merged_output_simple.m3u)  
-`5.`[`kimwang1978/merged_output.m3u`](https://github.com/kimwang1978/collect-tv-txt/blob/main/merged_output.m3u)
+`5.`[`kimwang1978/merged_output.m3u`](https://github.com/kimwang1978/collect-tv-txt/blob/main/merged_output.m3u)  
+
+**EPG地址**  
+`1.`[`http://live.kakaxi-1.ink/epg.xml`](http://live.kakaxi-1.ink/epg.xml)  
+`2.`[`https://live.fanmingming.com/e.xml`](https://live.fanmingming.com/e.xml)  
+`3.`[`https://assets.livednow.com/epg.xml`](https://assets.livednow.com/epg.xml)  
+`4.`[`https://epg.112114.xyz/pp.xml.gz`](https://epg.112114.xyz/pp.xml.g)  
